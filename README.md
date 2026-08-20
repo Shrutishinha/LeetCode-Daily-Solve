@@ -2,64 +2,82 @@
 
 # 🧠 LeetCode Daily Solve
 
-### Daily DSA Practice • Problem Solving • Algorithmic Thinking
+### Daily DSA Practice • Problem-Solving Patterns • Interview Preparation
 
 <p>
-  <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Problems-250%2B-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Target-500%2B-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Algorithms-purple?style=for-the-badge"/>
+</p>
+
+<p>
+  <b>💻 Building consistency, mastering patterns, and becoming a better problem solver — one problem at a time.</b>
 </p>
 
 </div>
 
 ---
 
-## 📌 About
+## 📌 About This Repository
 
-This repository contains my **daily LeetCode problem-solving journey**, covering Data Structures and Algorithms from fundamental concepts to advanced problem-solving patterns.
+Welcome to my **LeetCode Daily Solve** repository — a structured collection of my Data Structures & Algorithms practice.
 
-The goal is to build strong algorithmic thinking, improve coding efficiency, and prepare for **technical interviews and competitive programming**.
+This repository documents my journey from solving fundamental problems to tackling advanced algorithmic challenges, with a strong focus on:
 
-> **One problem every day. One pattern at a time. Continuous improvement.**
+* 🧠 **Pattern recognition**
+* ⚡ **Algorithm optimization**
+* 📊 **Time & space complexity**
+* 🧩 **Problem decomposition**
+* 💻 **Clean Java implementations**
+* 🎯 **Technical interview preparation**
 
----
-
-## 🎯 Goals
-
-* 🚀 Solve LeetCode problems consistently
-* 🧠 Strengthen DSA fundamentals
-* 🔍 Learn reusable problem-solving patterns
-* ⚡ Improve time and space complexity
-* 💻 Write clean and optimized solutions
-* 🎯 Prepare for technical interviews
-* 📈 Track long-term coding progress
+> **The goal isn't just to get Accepted — it's to understand the pattern behind the solution.**
 
 ---
 
-# 📊 Progress
+## 📊 Current Progress
 
-| Metric              |                  Progress |
+<div align="center">
+
+| 📌 Metric           |               🚀 Progress |
 | ------------------- | ------------------------: |
 | 🧩 Problems Solved  |                  **250+** |
 | 🎯 Target           |                  **500+** |
-| 🔥 Daily Practice   |                **Active** |
+| 🔥 Practice         |                 **Daily** |
 | 💻 Primary Language |                  **Java** |
 | 📚 Focus            | **DSA & Problem Solving** |
+| 🎯 Main Goal        | **Interview Preparation** |
 
-### Progress
+### 250+ / 500+
 
 ```text
-250+ / 500+
-
-████████████░░░░░░░░░░░░░░  50%+
+████████████░░░░░░░░░░░░  50%+
 ```
 
-> Progress is updated continuously as new problems are solved.
+</div>
 
 ---
 
-# 🗂️ Repository Structure
+## 🏆 Milestones
+
+* [x] 🟢 First LeetCode Problem
+* [x] 🟢 50+ Problems
+* [x] 🟢 100+ Problems
+* [x] 🟢 200+ Problems
+* [x] 🟢 **250+ Problems**
+* [ ] 🟡 300+ Problems
+* [ ] 🟡 400+ Problems
+* [ ] 🔥 **500+ Problems**
+* [ ] 🚀 Complete Major DSA Patterns
+* [ ] 🎯 Interview-Ready DSA Preparation
+
+---
+
+## 🗂️ Repository Structure
 
 ```text
 LeetCode-Daily-Solve/
@@ -92,12 +110,12 @@ LeetCode-Daily-Solve/
 │   ├── BST/
 │   └── Traversal/
 │
+├── Heap/
+│
 ├── Graphs/
 │   ├── BFS/
 │   ├── DFS/
 │   └── Shortest_Path/
-│
-├── Heap/
 │
 ├── Greedy/
 │
@@ -114,87 +132,234 @@ LeetCode-Daily-Solve/
 
 ---
 
-# 📚 DSA Topics Covered
+# 📚 DSA Roadmap
 
-### 🟢 Fundamentals
+The repository follows a progression from fundamental concepts to advanced algorithms.
+
+```text
+Arrays
+   ↓
+Strings
+   ↓
+Hashing
+   ↓
+Two Pointers
+   ↓
+Sliding Window
+   ↓
+Prefix Sum
+   ↓
+Binary Search
+   ↓
+Linked List
+   ↓
+Stack & Queue
+   ↓
+Trees
+   ↓
+Heap / Priority Queue
+   ↓
+Graphs
+   ↓
+Greedy
+   ↓
+Backtracking
+   ↓
+Dynamic Programming
+   ↓
+Advanced DSA
+```
+
+---
+
+# 🧩 Topics Covered
+
+<details>
+<summary><b>🟢 Core Fundamentals</b></summary>
 
 * Arrays
 * Strings
-* Hashing
 * Sorting
 * Searching
+* Hashing
 * Two Pointers
 * Sliding Window
 * Prefix Sum
 * Kadane's Algorithm
 
-### 🟡 Data Structures
+</details>
 
-* Linked List
+<details>
+<summary><b>🟡 Data Structures</b></summary>
+
+* Arrays
+* Linked Lists
 * Stack
 * Queue
 * Deque
 * HashMap
 * HashSet
-* Heap / Priority Queue
+* Heap
+* Priority Queue
 * Trees
 * Binary Search Tree
 * Graphs
 * Trie
 
-### 🔴 Advanced Algorithms
+</details>
 
-* Binary Search
-* Backtracking
+<details>
+<summary><b>🔴 Advanced Algorithms</b></summary>
+
+* Binary Search on Answer
 * Greedy
+* Backtracking
 * Dynamic Programming
 * Graph Algorithms
-* Bit Manipulation
+* Shortest Path
 * Recursion
-* Divide and Conquer
+* Divide & Conquer
+* Bit Manipulation
+
+</details>
 
 ---
 
-# 🧩 Problem-Solving Approach
+# 🔥 Important Problem-Solving Patterns
 
-For every problem, I follow a structured process:
+## 🔹 Two Pointers
+
+Commonly used for:
+
+* Sorted arrays
+* Pair-sum problems
+* Palindromes
+* In-place modifications
+* Partitioning problems
+
+---
+
+## 🔹 Sliding Window
+
+Useful for:
+
+* Subarrays
+* Substrings
+* Frequency problems
+* Longest/shortest window problems
+* Fixed and variable-size windows
+
+---
+
+## 🔹 Prefix Sum
+
+Useful for:
+
+* Range queries
+* Subarray sums
+* Cumulative calculations
+* Difference-based problems
+
+---
+
+## 🔹 Hashing
+
+Useful for:
+
+* Frequency counting
+* Duplicate detection
+* Fast lookup
+* Prefix-sum problems
+* Grouping elements
+
+---
+
+## 🔹 Binary Search
+
+Useful for:
+
+* Sorted arrays
+* Search-space reduction
+* Minimum/maximum feasible answer
+* Binary Search on Answer
+
+---
+
+## 🔹 Dynamic Programming
+
+Major patterns include:
+
+* 1D DP
+* 2D DP
+* Knapsack
+* Subsequences
+* Grid DP
+* Partition DP
+* State transitions
+* Memoization
+* Tabulation
+
+---
+
+# 🧠 Problem-Solving Framework
+
+Every problem is approached using a structured process:
 
 ```text
-Understand
-    ↓
-Identify Pattern
-    ↓
-Brute Force
-    ↓
-Optimize
-    ↓
-Implement
-    ↓
-Analyze Complexity
-    ↓
-Test Edge Cases
-    ↓
-Document
+             ┌───────────────┐
+             │ Understand    │
+             │ the Problem   │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │ Identify the  │
+             │ Pattern       │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │ Brute Force   │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │ Optimize      │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │ Implement     │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │ Test Edge     │
+             │ Cases         │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │ Complexity    │
+             │ Analysis      │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │ Document &    │
+             │ Revisit       │
+             └───────────────┘
 ```
-
-The focus is not only on getting **Accepted**, but on understanding **why the solution works**.
 
 ---
 
 # 📝 Solution Format
 
-Each problem follows a consistent structure:
+Each solution aims to follow a consistent structure:
 
 ```text
 Problem
-│
-├── Approach
-├── Intuition
-├── Algorithm
-├── Code
-├── Time Complexity
-├── Space Complexity
-└── Edge Cases
+   │
+   ├── Intuition
+   ├── Approach
+   ├── Algorithm
+   ├── Java Implementation
+   ├── Time Complexity
+   ├── Space Complexity
+   └── Edge Cases
 ```
 
 Example:
@@ -202,7 +367,9 @@ Example:
 ```java
 class Solution {
     public int example(int[] nums) {
+
         // Optimized solution
+
         return 0;
     }
 }
@@ -211,15 +378,15 @@ class Solution {
 ### Complexity
 
 ```text
-Time Complexity: O(n)
-Space Complexity: O(1)
+Time Complexity  : O(n)
+Space Complexity : O(1)
 ```
 
 ---
 
 # 📅 Daily Solve Tracker
 
-| Day | Problem      | Difficulty | Topic               | Status |
+| Day | Problem      | Difficulty | Pattern             | Status |
 | --: | ------------ | :--------: | ------------------- | :----: |
 |  01 | Problem Name |   🟢 Easy  | Arrays              |    ✅   |
 |  02 | Problem Name |  🟡 Medium | Hashing             |    ✅   |
@@ -227,11 +394,11 @@ Space Complexity: O(1)
 |  04 | Problem Name |   🔴 Hard  | Dynamic Programming |    ✅   |
 |  05 | Problem Name |   🟢 Easy  | Two Pointers        |    ✅   |
 
-> The tracker is updated as the daily challenge progresses.
+> The tracker is continuously updated as new problems are solved.
 
 ---
 
-# 🏆 Difficulty Distribution
+# 📊 Difficulty Distribution
 
 | Difficulty | Problems |
 | ---------- | -------: |
@@ -242,197 +409,151 @@ Space Complexity: O(1)
 
 ---
 
-# 🔥 Important Patterns
+# 🔁 Revision Strategy
 
-Some of the most important patterns practiced in this repository:
+Solving a problem once isn't enough.
 
-### Two Pointers
+Previously solved problems are revisited using a spaced-repetition approach:
 
-Useful for:
+```text
+Day 1
+  ↓
+Solve
+  ↓
+Day 3
+  ↓
+Review Approach
+  ↓
+Day 7
+  ↓
+Re-solve Without Looking
+  ↓
+Day 14
+  ↓
+Review Pattern
+  ↓
+Day 30
+  ↓
+Final Revision
+```
 
-* Sorted arrays
-* Pair problems
-* Palindromes
-* In-place modifications
+### 🎯 Goal
 
-### Sliding Window
+Convert:
 
-Useful for:
-
-* Subarrays
-* Substrings
-* Frequency-based problems
-* Maximum/minimum window problems
-
-### Prefix Sum
-
-Useful for:
-
-* Range queries
-* Subarray sums
-* Cumulative calculations
-
-### Hashing
-
-Useful for:
-
-* Frequency counting
-* Duplicate detection
-* Lookup optimization
-* Subarray problems
-
-### Binary Search
-
-Useful for:
-
-* Sorted data
-* Search space reduction
-* Answer-based binary search
-
-### Dynamic Programming
-
-Focus areas:
-
-* 1D DP
-* 2D DP
-* Knapsack
-* Subsequence problems
-* Grid DP
-* State transitions
+```text
+Individual Solutions
+        ↓
+Recognized Patterns
+        ↓
+Reusable Techniques
+        ↓
+Faster Problem Solving
+```
 
 ---
 
 # 💡 What I'm Learning
 
-This repository is helping me improve:
+Through this repository, I'm continuously improving:
 
-* Problem decomposition
-* Algorithm selection
-* Complexity analysis
-* Edge-case handling
-* Code optimization
-* Pattern recognition
-* Debugging
-* Interview problem solving
+* 🧩 Problem decomposition
+* 🧠 Pattern recognition
+* ⚡ Algorithm selection
+* 📊 Complexity analysis
+* 🐛 Debugging
+* 🎯 Edge-case handling
+* 💻 Code optimization
+* 🔄 Re-solving difficult problems
+* 🗣️ Explaining technical solutions clearly
+* 💼 Interview problem-solving
 
 ---
 
-# 📈 Learning Progression
+# 📈 Progress Philosophy
+
+This repository is built around a simple principle:
+
+> **Consistency beats intensity.**
+
+Rather than solving hundreds of problems randomly, the focus is on understanding **patterns, approaches, and trade-offs**.
 
 ```text
-Arrays
-  ↓
-Strings
-  ↓
-Hashing
-  ↓
-Two Pointers
-  ↓
-Sliding Window
-  ↓
-Binary Search
-  ↓
-Linked List
-  ↓
-Stack & Queue
-  ↓
-Trees
-  ↓
-Heap
-  ↓
-Graphs
-  ↓
-Greedy
-  ↓
-Backtracking
-  ↓
-Dynamic Programming
-  ↓
-Advanced DSA
+Problem
+   ↓
+Understand
+   ↓
+Pattern
+   ↓
+Brute Force
+   ↓
+Optimization
+   ↓
+Implementation
+   ↓
+Complexity
+   ↓
+Revision
+   ↓
+Mastery
 ```
 
 ---
 
-# 🎯 Milestones
+# 🎯 Future Goals
 
-* [x] Solve first LeetCode problem
-* [x] Build consistent solving habit
-* [x] Solve 100+ problems
-* [x] Solve 200+ problems
-* [x] Solve 250+ problems
-* [ ] Solve 300+ problems
-* [ ] Solve 400+ problems
-* [ ] Solve 500+ problems
-* [ ] Complete advanced DSA revision
-* [ ] Maintain consistent daily practice
-
----
-
-# 🧠 Key Principles
-
-> **Consistency > Intensity**
-
-> **Understand the pattern, not just the solution.**
-
-> **Optimize after understanding the brute force approach.**
-
-> **Always analyze time and space complexity.**
-
-> **Revisit problems that were difficult the first time.**
-
----
-
-# 🚀 Future Plans
-
-* 📌 Complete **500+ LeetCode problems**
-* 📌 Cover every major DSA pattern
-* 📌 Maintain daily solving streak
-* 📌 Create topic-wise revision notes
-* 📌 Add optimized solutions
-* 📌 Track recurring mistakes
-* 📌 Build an interview-focused problem set
-* 📌 Revise previously solved problems regularly
-
----
-
-# 📚 Recommended Revision Cycle
-
-```text
-Day 1
-Solve Problem
-   ↓
-Day 3
-Review Approach
-   ↓
-Day 7
-Re-solve Without Looking
-   ↓
-Day 14
-Review Pattern
-   ↓
-Day 30
-Final Revision
-```
-
-This helps convert individual solutions into reusable problem-solving patterns.
+* [ ] 🚀 Solve **300+ problems**
+* [ ] 🚀 Solve **400+ problems**
+* [ ] 🔥 Solve **500+ problems**
+* [ ] 📚 Complete all major DSA patterns
+* [ ] 🧠 Build topic-wise revision notes
+* [ ] 🔄 Revisit difficult problems
+* [ ] 📝 Maintain a mistake log
+* [ ] 🎯 Build an interview-focused question set
+* [ ] 💻 Improve solution quality and readability
+* [ ] 📈 Maintain consistent daily practice
 
 ---
 
 # 🌟 Repository Philosophy
 
-This is more than a collection of accepted solutions.
+This repository is **more than a collection of accepted LeetCode solutions**.
 
-It is a record of my journey toward becoming a stronger problem solver.
+It represents my journey of developing stronger:
+
+**Problem-Solving Skills + Algorithmic Thinking + Coding Discipline**
 
 ```text
-Problem → Pattern → Approach → Optimization → Understanding
+              ┌─────────────┐
+              │   PROBLEM   │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │   PATTERN   │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │   APPROACH  │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │ OPTIMIZATION│
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │ IMPLEMENT   │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │ UNDERSTAND  │
+              └─────────────┘
 ```
 
-Every solution represents a step toward better algorithmic thinking.
+> **Don't just solve the problem. Learn the pattern behind it.**
 
 ---
 
-# 👩‍💻 Author
+# 👩‍💻 About Me
 
 <div align="center">
 
@@ -448,8 +569,10 @@ Data Analytics • Machine Learning • Artificial Intelligence • DSA
 
 <div align="center">
 
-### 🧠 Keep Solving. Keep Learning. Keep Improving.
+## 🧠 Keep Solving. Keep Learning. Keep Improving.
 
-⭐ If this repository helps you, consider giving it a star.
+**250+ problems solved → 500+ is the next milestone.**
+
+⭐ If you find this repository useful, consider giving it a star!
 
 </div>
