@@ -1,27 +1,5 @@
 <div align="center">
-<div align="center">
 
-🌸 ˚₊‧ 🌷 ‧₊˚ 🌼 ˚₊‧ 🌸 ‧₊˚ 🌺 ˚₊‧ 🌷 ‧₊˚ 🌸
-
-# 🧠 LeetCode Daily Solve
-
-### 🌱 Daily DSA Practice • Problem Solving • Algorithmic Thinking
-
-🌸 ─────────────────────────────── 🌸
-
-<p>
-  <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Problems-250%2B-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Target-500%2B-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Algorithms-purple?style=for-the-badge"/>
-</p>
-
-🌷 **Solve → Understand → Optimize → Repeat** 🌷
-
-🌱 *Growing one algorithmic skill at a time.*
-
-🌸 ˚₊‧ 🌷 ‧₊˚ 🌼 ˚₊‧ 🌸 ‧₊˚ 🌺 ˚₊‧ 🌷 ‧₊˚ 🌸
 
 </div>
 
