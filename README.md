@@ -101,6 +101,18 @@ Interview Readiness
 
 Note: GitHub stats and streak widgets update automatically from your public GitHub activity.
 
+🔥 Live-Looking Progress
+
+<div align="center">
+
+<img src="https://progress-bar.dev/50/?title=250%2B%20/%20500%2B&width=650&color=FFA116&suffix=%25" alt="50 percent progress"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=900&color=6F42C1&center=true&vCenter=true&width=650&lines=50%25+complete;Next%3A+300%2B;Ultimate+target%3A+500%2B" alt="Animated progress text"/>
+
+</div>
+
 🏆 Milestones
 
 🟢 First LeetCode Problem
@@ -213,6 +225,18 @@ Advanced DSA
 
 </div>
 
+🎬 Animated DSA Journey
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=600&color=FFA116&center=true&vCenter=true&width=850&lines=Arrays+%E2%86%92+Strings+%E2%86%92+Hashing+%E2%86%92+Binary+Search;Linked+Lists+%E2%86%92+Trees+%E2%86%92+Graphs+%E2%86%92+DP;Every+pattern+becomes+a+reusable+skill" alt="Animated roadmap"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&text=LEARN%20%E2%86%92%20PRACTICE%20%E2%86%92%20OPTIMIZE%20%E2%86%92%20REVISE&fontSize=18&fontColor=ffffff&color=gradient&animation=twinkling" alt="Animated learning cycle"/>
+
+</div>
+
 🧩 Topics Covered
 
 <details>
@@ -291,6 +315,8 @@ Divide & Conquer
 Bit Manipulation
 
 </details>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&animation=twinkling" width="90%" alt="Animated divider"/></div>
 
 🔥 Core Problem-Solving Patterns
 
@@ -382,6 +408,8 @@ Memoization
 
 Tabulation
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&animation=twinkling" width="90%" alt="Animated divider"/></div>
+
 🧠 Problem-Solving Framework
 
 Every problem follows a repeatable workflow:
@@ -422,6 +450,8 @@ Every problem follows a repeatable workflow:
 │ 9. Document & Revisit   │
 └─────────────────────────┘
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&animation=twinkling" width="90%" alt="Animated divider"/></div>
+
 📝 Solution Format
 
 Each solution aims to follow a consistent structure:
@@ -451,6 +481,8 @@ Complexity
 
 Time Complexity  : O(n)
 Space Complexity : O(1)
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&animation=twinkling" width="90%" alt="Animated divider"/></div>
 
 📅 Daily Solve Tracker
 
@@ -516,6 +548,16 @@ Two Pointers
 
 🔄 The tracker is continuously updated as new problems are solved.
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=22C55E&center=true&vCenter=true&width=700&lines=Solve+%E2%9C%93;Understand+%E2%9C%93;Optimize+%E2%9C%93;Re-solve+%E2%9C%93;Master+%E2%9C%93" alt="Animated tracker"/>
+
+</div>
+
+
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&animation=twinkling" width="90%" alt="Animated divider"/></div>
+
 📊 Difficulty Distribution
 
 Difficulty
@@ -539,6 +581,14 @@ Total
 250+
 
 Add the exact Easy / Medium / Hard counts as the repository data becomes available.
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&animation=twinkling" width="90%" alt="Animated divider"/></div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&text=DAY%201%20→%20DAY%203%20→%20DAY%207%20→%20DAY%2014%20→%20DAY%2030&fontSize=17&fontColor=ffffff&color=gradient&animation=twinkling" alt="Animated revision timeline"/>
+
+</div>
 
 🔁 Revision System
 
@@ -578,6 +628,8 @@ Faster Problem Solving
         ↓
 Interview Confidence
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&animation=twinkling" width="90%" alt="Animated divider"/></div>
+
 📈 What I'm Learning
 
 Through this repository, I'm continuously improving:
@@ -601,6 +653,8 @@ Through this repository, I'm continuously improving:
 🗣️ Explaining technical solutions clearly
 
 💼 Interview-focused problem solving
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&animation=twinkling" width="90%" alt="Animated divider"/></div>
 
 📝 Mistake Log
 
@@ -644,6 +698,12 @@ Can handle edge cases
 
 Can re-solve it later without looking
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&animation=twinkling" width="90%" alt="Animated divider"/></div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=700&color=22C55E&center=true&vCenter=true&width=700&lines=Building+Interview+Readiness+One+Pattern+at+a+Time" alt="Animated interview readiness"/>
+</div>
+
 ⚡ Interview Readiness Checklist
 
 Arrays & Strings
@@ -682,6 +742,8 @@ Common Interview Patterns
 
 Timed Problem Solving
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&animation=twinkling" width="90%" alt="Animated divider"/></div>
+
 📌 Progress Philosophy
 
 This repository follows a simple principle:
@@ -709,6 +771,8 @@ Complexity
 Revision
    ↓
 Mastery
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&animation=twinkling" width="90%" alt="Animated divider"/></div>
 
 🎯 Future Goals
 
