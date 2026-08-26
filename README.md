@@ -1,33 +1,27 @@
 <div align="center">
 
-🧠 LeetCode Daily Solve
+<a href="https://leetcode.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=FFA116&center=true&vCenter=true&width=700&lines=LeetCode+Daily+Solve;250%2B+Problems+Solved;Mastering+DSA+Patterns;500%2B+is+the+Next+Milestone" alt="Typing animation"/>
+</a>
 
-Daily DSA Practice • Pattern Recognition • Interview Preparation
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12,14,16,18&section=header&text=DSA%20%7C%20Algorithms%20%7C%20Interview%20Prep&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Animated header"/>
 
 <p>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Problems-250%2B-success?style=for-the-badge" alt="250+ Problems"/>
-  <img src="https://img.shields.io/badge/Target-500%2B-blue?style=for-the-badge" alt="500+ Target"/>
-  <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Algorithms-6f42c1?style=for-the-badge" alt="DSA"/>
+  <img src="https://img.shields.io/badge/250%2B-Problems-success?style=for-the-badge&logo=leetcode&logoColor=white" alt="250+"/>
+  <img src="https://img.shields.io/badge/Target-500%2B-blue?style=for-the-badge" alt="500+"/>
+  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Algorithms-6f42c1?style=for-the-badge" alt="DSA"/>
 </p>
 
 <p>
-  <b>💻 Building consistency, mastering patterns, and becoming a stronger problem solver — one problem at a time.</b>
-</p>
-
-<p>
-  <a href="#-about">About</a> •
-  <a href="#-progress">Progress</a> •
-  <a href="#-roadmap">Roadmap</a> •
-  <a href="#-patterns">Patterns</a> •
-  <a href="#-tracker">Tracker</a> •
-  <a href="#-revision">Revision</a>
+  <b>🧠 Learn the pattern → ⚡ optimize the approach → 💻 write clean code → 🔄 revise → 🎯 master it</b>
 </p>
 
 </div>
+
+🎬 Animated README: This README uses lightweight GitHub-compatible animated SVG services for the typing header, progress widgets, pattern flow, and footer. If a third-party widget is temporarily unavailable, the rest of the README remains fully usable.
 
 📌 About
 
@@ -88,6 +82,24 @@ Interview Readiness
 ████████████░░░░░░░░░░░░  50%+
 
 </div>
+
+⚡ Animated Progress
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shrutisinha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Shrutisinha&hide_border=true&theme=transparent" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shrutisinha&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
+
+</div>
+
+Note: GitHub stats and streak widgets update automatically from your public GitHub activity.
 
 🏆 Milestones
 
@@ -188,6 +200,18 @@ Backtracking
 Dynamic Programming
    ↓
 Advanced DSA
+
+🌊 Pattern Flow
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,git,github&theme=light" alt="Tech stack"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=ARRAYS%20%20→%20%20HASHING%20%20→%20%20WINDOWS%20%20→%20%20TREES%20%20→%20%20GRAPHS%20%20→%20%20DP&fontSize=18&fontColor=ffffff&color=gradient&animation=twinkling" alt="Pattern flow"/>
+
+</div>
 
 🧩 Topics Covered
 
@@ -742,6 +766,18 @@ Problem-Solving Skills + Algorithmic Thinking + Coding Discipline
 
 Don't just solve the problem. Learn the pattern behind it.
 
+✨ The DSA Loop
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=700&color=6F42C1&center=true&vCenter=true&width=800&lines=Understand+%E2%86%92+Recognize+%E2%86%92+Optimize+%E2%86%92+Implement;Solve+%E2%86%92+Review+%E2%86%92+Re-solve+%E2%86%92+Master;Consistency+%3E+Intensity" alt="Animated DSA loop"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,16,18&section=footer&animation=fadeIn" alt="Animated footer"/>
+
+</div>
+
 👩‍💻 About Me
 
 <div align="center">
@@ -776,7 +812,7 @@ Next Milestone → 300+ → 400+ → 500+
 
 🧠 Keep Solving. Keep Learning. Keep Improving.
 
-250+ problems solved → 500+ is the next milestone.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=FFA116&center=true&vCenter=true&width=700&lines=250%2B+solved+%E2%86%92+300%2B+%E2%86%92+400%2B+%E2%86%92+500%2B;One+problem+at+a+time.;Keep+solving.+Keep+growing." alt="Animated milestone"/>
 
 ⭐ If you find this repository useful, consider giving it a star!
 
