@@ -1,5 +1,5 @@
 <div align="center">
-hi
+
 <a href="https://leetcode.com/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=FFA116&center=true&vCenter=true&width=700&lines=LeetCode+Daily+Solve;250%2B+Problems+Solved;Mastering+DSA+Patterns;500%2B+is+the+Next+Milestone" alt="Typing animation"/>
 </a>
