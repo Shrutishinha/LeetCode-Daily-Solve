@@ -3,33 +3,103 @@
 <a href="https://leetcode.com/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=FFA116&center=true&vCenter=true&width=700&lines=LeetCode+Daily+Solve;250%2B+Problems+Solved;Mastering+DSA+Patterns;500%2B+is+the+Next+Milestone" alt="Typing animation"/>
 </a>
-| #  | Topic               | What to learn                                        |
-| -- | ------------------- | ---------------------------------------------------- |
-| 1  | Python Basics       | loops, functions, slicing, comprehensions            |
-| 2  | Arrays/Lists        | traversal, insertion, deletion, prefix sum           |
-| 3  | Strings             | palindrome, frequency, substring                     |
-| 4  | Hashing             | `dict`, `set`, frequency counting                    |
-| 5  | Two Pointers        | pair sum, palindrome, sorted arrays                  |
-| 6  | Sliding Window      | fixed & variable windows                             |
-| 7  | Prefix Sum          | range sum, subarray sum                              |
-| 8  | Sorting             | built-in sort, custom sorting, merge sort, quicksort |
-| 9  | Binary Search       | normal + search on answer                            |
-| 10 | Linked List         | reverse, cycle, merge                                |
-| 11 | Stack               | parentheses, monotonic stack                         |
-| 12 | Queue/Deque         | BFS, sliding window                                  |
-| 13 | Recursion           | backtracking foundation                              |
-| 14 | Trees               | DFS, BFS, traversals                                 |
-| 15 | BST                 | search, insert, delete                               |
-| 16 | Heap                | min/max heap, priority queue                         |
-| 17 | Graphs              | BFS, DFS                                             |
-| 18 | Shortest Path       | Dijkstra, Bellman-Ford basics                        |
-| 19 | Greedy              | intervals, scheduling                                |
-| 20 | Backtracking        | subsets, permutations, combinations                  |
-| 21 | Dynamic Programming | 1D, 2D, knapsack, subsequences                       |
-| 22 | Bit Manipulation    | XOR, shifts, masks                                   |
 
 <br/>
+## 🐍 DSA Roadmap — Python
 
+| # | Topic | Important Concepts | Priority | Python Focus |
+|---|---|---|---|---|
+| 1 | 🐍 Python Basics | Variables, Loops, Functions, Lists, Tuples, Sets, Dictionaries | ⭐⭐⭐⭐⭐ | `list`, `dict`, `set`, `tuple` |
+| 2 | 📦 Arrays / Lists | Traversal, Kadane's Algorithm, Sorting, Prefix Sum | ⭐⭐⭐⭐⭐ | `list` |
+| 3 | 🔤 Strings | Palindrome, Anagrams, Frequency, Substrings | ⭐⭐⭐⭐⭐ | String slicing, `Counter` |
+| 4 | 🔢 Hashing | HashMap, HashSet, Frequency Map | ⭐⭐⭐⭐⭐ | `dict`, `set`, `Counter` |
+| 5 | 👉 Two Pointers | Pair Sum, 3Sum, Sorted Arrays | ⭐⭐⭐⭐⭐ | Index manipulation |
+| 6 | 🪟 Sliding Window | Fixed & Variable Window | ⭐⭐⭐⭐⭐ | `dict`, two pointers |
+| 7 | ➕ Prefix Sum | Range Sum, Subarray Sum | ⭐⭐⭐⭐⭐ | Lists + cumulative sum |
+| 8 | 🔍 Binary Search | Classic BS, Search Space, Lower/Upper Bound | ⭐⭐⭐⭐⭐ | `bisect` |
+| 9 | 🔗 Linked List | Reverse, Cycle, Merge, Fast & Slow Pointer | ⭐⭐⭐⭐ | Custom `Node` class |
+| 10 | 📚 Stack | Valid Parentheses, Monotonic Stack | ⭐⭐⭐⭐⭐ | `list` |
+| 11 | 🚶 Queue / Deque | BFS, Sliding Window, Queue Operations | ⭐⭐⭐⭐ | `collections.deque` |
+| 12 | 🔄 Recursion | Backtracking Basics, Recursive Problems | ⭐⭐⭐⭐ | Recursive functions |
+| 13 | 🌳 Trees | DFS, BFS, Traversals | ⭐⭐⭐⭐⭐ | `TreeNode`, recursion |
+| 14 | 🌲 BST | Search, Insert, Delete, Validation | ⭐⭐⭐⭐ | Recursion |
+| 15 | 🏆 Heap / Priority Queue | Top K, Kth Largest, Scheduling | ⭐⭐⭐⭐⭐ | `heapq` |
+| 16 | 🕸️ Graphs | BFS, DFS, Adjacency List | ⭐⭐⭐⭐⭐ | `dict`, `list`, `deque` |
+| 17 | 🚀 Shortest Path | Dijkstra, BFS Shortest Path | ⭐⭐⭐⭐ | `heapq` |
+| 18 | 💰 Greedy | Intervals, Activity Selection, Optimization | ⭐⭐⭐⭐ | Sorting + greedy |
+| 19 | 🔙 Backtracking | Subsets, Permutations, Combination Sum | ⭐⭐⭐⭐ | Recursion |
+| 20 | 🧠 Dynamic Programming | 1D DP, 2D DP, Knapsack, LIS | ⭐⭐⭐⭐⭐ | Lists / memoization |
+| 21 | ⚙️ Bit Manipulation | XOR, AND, OR, Bit Shifts | ⭐⭐⭐ | Python bit operators |
+| 22 | 🧮 Advanced DSA | Trie, Union Find, Segment Tree | ⭐⭐ | Learn after core DSA |
+
+### 🎯 AI/ML Interview Priority
+
+| Priority | Topics |
+|---|---|
+| 🔥 MUST MASTER | Arrays, Strings, Hashing, Two Pointers, Sliding Window |
+| 🔥 MUST MASTER | Binary Search, Stack, Queue, Trees, BFS/DFS |
+| 🔥 MUST MASTER | Heap / Priority Queue, Recursion, Basic DP |
+| ⭐ IMPORTANT | Linked List, Graphs, Greedy, Backtracking |
+| 🟢 GOOD TO KNOW | Bit Manipulation, Trie, Union Find |
+| ⏳ LOW PRIORITY | Segment Tree, Advanced Graph Algorithms |
+
+### 🐍 Python DSA Cheat Sheet
+
+| Data Structure / Task | Python |
+|---|---|
+| Array | `arr = []` |
+| HashMap | `mp = {}` |
+| HashSet | `s = set()` |
+| Frequency Map | `Counter(arr)` |
+| Stack | `stack.append(x)` / `stack.pop()` |
+| Queue | `deque()` |
+| Min Heap | `heapq.heappush()` / `heapq.heappop()` |
+| Sorting | `sorted(arr)` |
+| Binary Search | `bisect_left()` / `bisect_right()` |
+| Reverse List | `arr[::-1]` |
+| Maximum | `max(arr)` |
+| Minimum | `min(arr)` |
+| Sum | `sum(arr)` |
+| Length | `len(arr)` |
+
+### 🚀 My AI/ML DSA Strategy
+
+> **I don't need to become a competitive programmer.**
+> 
+> My goal is to master the most common DSA patterns required for **AI/ML, Data Science and Software Engineering interviews**.
+
+**Focus Order:**
+
+```text
+Python Basics
+      ↓
+Arrays + Strings
+      ↓
+Hashing
+      ↓
+Two Pointers
+      ↓
+Sliding Window
+      ↓
+Prefix Sum
+      ↓
+Binary Search
+      ↓
+Stack + Queue
+      ↓
+Linked List
+      ↓
+Trees + BST
+      ↓
+Heap / Priority Queue
+      ↓
+Graphs
+      ↓
+Greedy
+      ↓
+Backtracking
+      ↓
+Dynamic Programming
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12,14,16,18&section=header&text=DSA%20%7C%20Algorithms%20%7C%20Interview%20Prep&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Animated header"/>
 
 <p>
