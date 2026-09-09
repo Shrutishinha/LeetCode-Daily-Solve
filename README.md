@@ -3,6 +3,30 @@
 <a href="https://leetcode.com/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=FFA116&center=true&vCenter=true&width=700&lines=LeetCode+Daily+Solve;250%2B+Problems+Solved;Mastering+DSA+Patterns;500%2B+is+the+Next+Milestone" alt="Typing animation"/>
 </a>
+| #  | Topic               | What to learn                                        |
+| -- | ------------------- | ---------------------------------------------------- |
+| 1  | Python Basics       | loops, functions, slicing, comprehensions            |
+| 2  | Arrays/Lists        | traversal, insertion, deletion, prefix sum           |
+| 3  | Strings             | palindrome, frequency, substring                     |
+| 4  | Hashing             | `dict`, `set`, frequency counting                    |
+| 5  | Two Pointers        | pair sum, palindrome, sorted arrays                  |
+| 6  | Sliding Window      | fixed & variable windows                             |
+| 7  | Prefix Sum          | range sum, subarray sum                              |
+| 8  | Sorting             | built-in sort, custom sorting, merge sort, quicksort |
+| 9  | Binary Search       | normal + search on answer                            |
+| 10 | Linked List         | reverse, cycle, merge                                |
+| 11 | Stack               | parentheses, monotonic stack                         |
+| 12 | Queue/Deque         | BFS, sliding window                                  |
+| 13 | Recursion           | backtracking foundation                              |
+| 14 | Trees               | DFS, BFS, traversals                                 |
+| 15 | BST                 | search, insert, delete                               |
+| 16 | Heap                | min/max heap, priority queue                         |
+| 17 | Graphs              | BFS, DFS                                             |
+| 18 | Shortest Path       | Dijkstra, Bellman-Ford basics                        |
+| 19 | Greedy              | intervals, scheduling                                |
+| 20 | Backtracking        | subsets, permutations, combinations                  |
+| 21 | Dynamic Programming | 1D, 2D, knapsack, subsequences                       |
+| 22 | Bit Manipulation    | XOR, shifts, masks                                   |
 
 <br/>
 
