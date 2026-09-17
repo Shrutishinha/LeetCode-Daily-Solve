@@ -5,72 +5,361 @@
 </a>
 
 <br/>
-## 🐍 DSA Roadmap — Python
+<!-- ========================================================= -->
+     QUICK NAVIGATION
+============================================================== -->
 
-| # | Topic | Important Concepts | Priority | Python Focus |
-|---|---|---|---|---|
-| 1 | 🐍 Python Basics | Variables, Loops, Functions, Lists, Tuples, Sets, Dictionaries | ⭐⭐⭐⭐⭐ | `list`, `dict`, `set`, `tuple` |
-| 2 | 📦 Arrays / Lists | Traversal, Kadane's Algorithm, Sorting, Prefix Sum | ⭐⭐⭐⭐⭐ | `list` |
-| 3 | 🔤 Strings | Palindrome, Anagrams, Frequency, Substrings | ⭐⭐⭐⭐⭐ | String slicing, `Counter` |
-| 4 | 🔢 Hashing | HashMap, HashSet, Frequency Map | ⭐⭐⭐⭐⭐ | `dict`, `set`, `Counter` |
-| 5 | 👉 Two Pointers | Pair Sum, 3Sum, Sorted Arrays | ⭐⭐⭐⭐⭐ | Index manipulation |
-| 6 | 🪟 Sliding Window | Fixed & Variable Window | ⭐⭐⭐⭐⭐ | `dict`, two pointers |
-| 7 | ➕ Prefix Sum | Range Sum, Subarray Sum | ⭐⭐⭐⭐⭐ | Lists + cumulative sum |
-| 8 | 🔍 Binary Search | Classic BS, Search Space, Lower/Upper Bound | ⭐⭐⭐⭐⭐ | `bisect` |
-| 9 | 🔗 Linked List | Reverse, Cycle, Merge, Fast & Slow Pointer | ⭐⭐⭐⭐ | Custom `Node` class |
-| 10 | 📚 Stack | Valid Parentheses, Monotonic Stack | ⭐⭐⭐⭐⭐ | `list` |
-| 11 | 🚶 Queue / Deque | BFS, Sliding Window, Queue Operations | ⭐⭐⭐⭐ | `collections.deque` |
-| 12 | 🔄 Recursion | Backtracking Basics, Recursive Problems | ⭐⭐⭐⭐ | Recursive functions |
-| 13 | 🌳 Trees | DFS, BFS, Traversals | ⭐⭐⭐⭐⭐ | `TreeNode`, recursion |
-| 14 | 🌲 BST | Search, Insert, Delete, Validation | ⭐⭐⭐⭐ | Recursion |
-| 15 | 🏆 Heap / Priority Queue | Top K, Kth Largest, Scheduling | ⭐⭐⭐⭐⭐ | `heapq` |
-| 16 | 🕸️ Graphs | BFS, DFS, Adjacency List | ⭐⭐⭐⭐⭐ | `dict`, `list`, `deque` |
-| 17 | 🚀 Shortest Path | Dijkstra, BFS Shortest Path | ⭐⭐⭐⭐ | `heapq` |
-| 18 | 💰 Greedy | Intervals, Activity Selection, Optimization | ⭐⭐⭐⭐ | Sorting + greedy |
-| 19 | 🔙 Backtracking | Subsets, Permutations, Combination Sum | ⭐⭐⭐⭐ | Recursion |
-| 20 | 🧠 Dynamic Programming | 1D DP, 2D DP, Knapsack, LIS | ⭐⭐⭐⭐⭐ | Lists / memoization |
-| 21 | ⚙️ Bit Manipulation | XOR, AND, OR, Bit Shifts | ⭐⭐⭐ | Python bit operators |
-| 22 | 🧮 Advanced DSA | Trie, Union Find, Segment Tree | ⭐⭐ | Learn after core DSA |
+<div align="center">
 
-### 🎯 AI/ML Interview Priority
+🧭 Quick Navigation
 
-| Priority | Topics |
-|---|---|
-| 🔥 MUST MASTER | Arrays, Strings, Hashing, Two Pointers, Sliding Window |
-| 🔥 MUST MASTER | Binary Search, Stack, Queue, Trees, BFS/DFS |
-| 🔥 MUST MASTER | Heap / Priority Queue, Recursion, Basic DP |
-| ⭐ IMPORTANT | Linked List, Graphs, Greedy, Backtracking |
-| 🟢 GOOD TO KNOW | Bit Manipulation, Trie, Union Find |
-| ⏳ LOW PRIORITY | Segment Tree, Advanced Graph Algorithms |
+🐍 Python DSA Roadmap •
+🎯 AI/ML Priority •
+📊 Progress •
+🗂️ Structure •
+🧩 Patterns •
+🧠 Framework •
+🔁 Revision •
+🎯 Interview Readiness •
+🚀 Future Goals
 
-### 🐍 Python DSA Cheat Sheet
+</div>
 
-| Data Structure / Task | Python |
-|---|---|
-| Array | `arr = []` |
-| HashMap | `mp = {}` |
-| HashSet | `s = set()` |
-| Frequency Map | `Counter(arr)` |
-| Stack | `stack.append(x)` / `stack.pop()` |
-| Queue | `deque()` |
-| Min Heap | `heapq.heappush()` / `heapq.heappop()` |
-| Sorting | `sorted(arr)` |
-| Binary Search | `bisect_left()` / `bisect_right()` |
-| Reverse List | `arr[::-1]` |
-| Maximum | `max(arr)` |
-| Minimum | `min(arr)` |
-| Sum | `sum(arr)` |
-| Length | `len(arr)` |
+🐍 DSA Roadmap — Python
 
-### 🚀 My AI/ML DSA Strategy
+Python-first DSA track for AI/ML, Data Science and Software Engineering interviews.
+The roadmap keeps the original topic order, priorities and Python-specific focus.
 
-> **I don't need to become a competitive programmer.**
-> 
-> My goal is to master the most common DSA patterns required for **AI/ML, Data Science and Software Engineering interviews**.
+#
 
-**Focus Order:**
+Topic
 
-```text
+Important Concepts
+
+Priority
+
+Python Focus
+
+1
+
+🐍 Python Basics
+
+Variables, Loops, Functions, Lists, Tuples, Sets, Dictionaries
+
+⭐⭐⭐⭐⭐
+
+list, dict, set, tuple
+
+2
+
+📦 Arrays / Lists
+
+Traversal, Kadane's Algorithm, Sorting, Prefix Sum
+
+⭐⭐⭐⭐⭐
+
+list
+
+3
+
+🔤 Strings
+
+Palindrome, Anagrams, Frequency, Substrings
+
+⭐⭐⭐⭐⭐
+
+String slicing, Counter
+
+4
+
+🔢 Hashing
+
+HashMap, HashSet, Frequency Map
+
+⭐⭐⭐⭐⭐
+
+dict, set, Counter
+
+5
+
+👉 Two Pointers
+
+Pair Sum, 3Sum, Sorted Arrays
+
+⭐⭐⭐⭐⭐
+
+Index manipulation
+
+6
+
+🪟 Sliding Window
+
+Fixed & Variable Window
+
+⭐⭐⭐⭐⭐
+
+dict, two pointers
+
+7
+
+➕ Prefix Sum
+
+Range Sum, Subarray Sum
+
+⭐⭐⭐⭐⭐
+
+Lists + cumulative sum
+
+8
+
+🔍 Binary Search
+
+Classic BS, Search Space, Lower/Upper Bound
+
+⭐⭐⭐⭐⭐
+
+bisect
+
+9
+
+🔗 Linked List
+
+Reverse, Cycle, Merge, Fast & Slow Pointer
+
+⭐⭐⭐⭐
+
+Custom Node class
+
+10
+
+📚 Stack
+
+Valid Parentheses, Monotonic Stack
+
+⭐⭐⭐⭐⭐
+
+list
+
+11
+
+🚶 Queue / Deque
+
+BFS, Sliding Window, Queue Operations
+
+⭐⭐⭐⭐
+
+collections.deque
+
+12
+
+🔄 Recursion
+
+Backtracking Basics, Recursive Problems
+
+⭐⭐⭐⭐
+
+Recursive functions
+
+13
+
+🌳 Trees
+
+DFS, BFS, Traversals
+
+⭐⭐⭐⭐⭐
+
+TreeNode, recursion
+
+14
+
+🌲 BST
+
+Search, Insert, Delete, Validation
+
+⭐⭐⭐⭐
+
+Recursion
+
+15
+
+🏆 Heap / Priority Queue
+
+Top K, Kth Largest, Scheduling
+
+⭐⭐⭐⭐⭐
+
+heapq
+
+16
+
+🕸️ Graphs
+
+BFS, DFS, Adjacency List
+
+⭐⭐⭐⭐⭐
+
+dict, list, deque
+
+17
+
+🚀 Shortest Path
+
+Dijkstra, BFS Shortest Path
+
+⭐⭐⭐⭐
+
+heapq
+
+18
+
+💰 Greedy
+
+Intervals, Activity Selection, Optimization
+
+⭐⭐⭐⭐
+
+Sorting + greedy
+
+19
+
+🔙 Backtracking
+
+Subsets, Permutations, Combination Sum
+
+⭐⭐⭐⭐
+
+Recursion
+
+20
+
+🧠 Dynamic Programming
+
+1D DP, 2D DP, Knapsack, LIS
+
+⭐⭐⭐⭐⭐
+
+Lists / memoization
+
+21
+
+⚙️ Bit Manipulation
+
+XOR, AND, OR, Bit Shifts
+
+⭐⭐⭐
+
+Python bit operators
+
+22
+
+🧮 Advanced DSA
+
+Trie, Union Find, Segment Tree
+
+⭐⭐
+
+Learn after core DSA
+
+🎯 AI/ML Interview Priority
+
+Priority
+
+Topics
+
+🔥 MUST MASTER
+
+Arrays, Strings, Hashing, Two Pointers, Sliding Window
+
+🔥 MUST MASTER
+
+Binary Search, Stack, Queue, Trees, BFS/DFS
+
+🔥 MUST MASTER
+
+Heap / Priority Queue, Recursion, Basic DP
+
+⭐ IMPORTANT
+
+Linked List, Graphs, Greedy, Backtracking
+
+🟢 GOOD TO KNOW
+
+Bit Manipulation, Trie, Union Find
+
+⏳ LOW PRIORITY
+
+Segment Tree, Advanced Graph Algorithms
+
+🐍 Python DSA Cheat Sheet
+
+Data Structure / Task
+
+Python
+
+Array
+
+arr = []
+
+HashMap
+
+mp = {}
+
+HashSet
+
+s = set()
+
+Frequency Map
+
+Counter(arr)
+
+Stack
+
+stack.append(x) / stack.pop()
+
+Queue
+
+deque()
+
+Min Heap
+
+heapq.heappush() / heapq.heappop()
+
+Sorting
+
+sorted(arr)
+
+Binary Search
+
+bisect_left() / bisect_right()
+
+Reverse List
+
+arr[::-1]
+
+Maximum
+
+max(arr)
+
+Minimum
+
+min(arr)
+
+Sum
+
+sum(arr)
+
+Length
+
+len(arr)
+
+🚀 My AI/ML DSA Strategy
+
+I don't need to become a competitive programmer.
+
+My goal is to master the most common DSA patterns required for AI/ML, Data Science and Software Engineering interviews.
+
+Focus Order:
+
 Python Basics
       ↓
 Arrays + Strings
@@ -181,15 +470,15 @@ Interview Readiness
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shrutisinha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shrutishinha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Shrutisinha&hide_border=true&theme=transparent" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Shrutishinha&hide_border=true&theme=transparent" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shrutisinha&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shrutishinha&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
 
 </div>
 
@@ -580,65 +869,13 @@ Space Complexity : O(1)
 
 📅 Daily Solve Tracker
 
-Day
-
-Problem
-
-Difficulty
-
-Pattern
-
-Status
-
-01
-
-Problem Name
-
-🟢 Easy
-
-Arrays
-
-✅
-
-02
-
-Problem Name
-
-🟡 Medium
-
-Hashing
-
-✅
-
-03
-
-Problem Name
-
-🟡 Medium
-
-Strings
-
-✅
-
-04
-
-Problem Name
-
-🔴 Hard
-
-Dynamic Programming
-
-✅
-
-05
-
-Problem Name
-
-🟢 Easy
-
-Two Pointers
-
-✅
+| Day | Problem | Difficulty | Pattern | Status |
+|---:|---|---|---|:---:|
+| 01 | Problem Name | 🟢 Easy | Arrays | ✅ |
+| 02 | Problem Name | 🟡 Medium | Hashing | ✅ |
+| 03 | Problem Name | 🟡 Medium | Strings | ✅ |
+| 04 | Problem Name | 🔴 Hard | Dynamic Programming | ✅ |
+| 05 | Problem Name | 🟢 Easy | Two Pointers | ✅ |
 
 🔄 The tracker is continuously updated as new problems are solved.
 
@@ -654,25 +891,12 @@ Two Pointers
 
 📊 Difficulty Distribution
 
-Difficulty
-
-Problems
-
-🟢 Easy
-
-—
-
-🟡 Medium
-
-—
-
-🔴 Hard
-
-—
-
-Total
-
-250+
+| Difficulty | Problems |
+|---|---:|
+| 🟢 Easy | — |
+| 🟡 Medium | — |
+| 🔴 Hard | — |
+| **Total** | **250+** |
 
 Add the exact Easy / Medium / Hard counts as the repository data becomes available.
 
@@ -973,5 +1197,17 @@ Next Milestone → 300+ → 400+ → 500+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=FFA116&center=true&vCenter=true&width=700&lines=250%2B+solved+%E2%86%92+300%2B+%E2%86%92+400%2B+%E2%86%92+500%2B;One+problem+at+a+time.;Keep+solving.+Keep+growing." alt="Animated milestone"/>
 
 ⭐ If you find this repository useful, consider giving it a star!
+
+</div>
+
+---
+
+<div align="center">
+
+### 📌 Repository Status
+
+**250+ Problems • Daily Practice • Pattern-Based Learning • Interview Preparation**
+
+*This README is designed to evolve with the repository as new problems, patterns and milestones are added.*
 
 </div>
