@@ -5,30 +5,7 @@
 </a>
 
 <br/>
-<!-- ========================================================= -->
-     QUICK NAVIGATION
-============================================================== -->
-
-<div align="center">
-
-🧭 Quick Navigation
-
-🐍 Python DSA Roadmap •
-🎯 AI/ML Priority •
-📊 Progress •
-🗂️ Structure •
-🧩 Patterns •
-🧠 Framework •
-🔁 Revision •
-🎯 Interview Readiness •
-🚀 Future Goals
-
-</div>
-
-🐍 DSA Roadmap — Python
-
-Python-first DSA track for AI/ML, Data Science and Software Engineering interviews.
-The roadmap keeps the original topic order, priorities and Python-specific focus.
+## 🐍 DSA Roadmap — Python
 
 #
 
@@ -470,15 +447,15 @@ Interview Readiness
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shrutishinha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shrutisinha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Shrutishinha&hide_border=true&theme=transparent" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Shrutisinha&hide_border=true&theme=transparent" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shrutishinha&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shrutisinha&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
 
 </div>
 
@@ -869,13 +846,65 @@ Space Complexity : O(1)
 
 📅 Daily Solve Tracker
 
-| Day | Problem | Difficulty | Pattern | Status |
-|---:|---|---|---|:---:|
-| 01 | Problem Name | 🟢 Easy | Arrays | ✅ |
-| 02 | Problem Name | 🟡 Medium | Hashing | ✅ |
-| 03 | Problem Name | 🟡 Medium | Strings | ✅ |
-| 04 | Problem Name | 🔴 Hard | Dynamic Programming | ✅ |
-| 05 | Problem Name | 🟢 Easy | Two Pointers | ✅ |
+Day
+
+Problem
+
+Difficulty
+
+Pattern
+
+Status
+
+01
+
+Problem Name
+
+🟢 Easy
+
+Arrays
+
+✅
+
+02
+
+Problem Name
+
+🟡 Medium
+
+Hashing
+
+✅
+
+03
+
+Problem Name
+
+🟡 Medium
+
+Strings
+
+✅
+
+04
+
+Problem Name
+
+🔴 Hard
+
+Dynamic Programming
+
+✅
+
+05
+
+Problem Name
+
+🟢 Easy
+
+Two Pointers
+
+✅
 
 🔄 The tracker is continuously updated as new problems are solved.
 
@@ -891,12 +920,25 @@ Space Complexity : O(1)
 
 📊 Difficulty Distribution
 
-| Difficulty | Problems |
-|---|---:|
-| 🟢 Easy | — |
-| 🟡 Medium | — |
-| 🔴 Hard | — |
-| **Total** | **250+** |
+Difficulty
+
+Problems
+
+🟢 Easy
+
+—
+
+🟡 Medium
+
+—
+
+🔴 Hard
+
+—
+
+Total
+
+250+
 
 Add the exact Easy / Medium / Hard counts as the repository data becomes available.
 
@@ -1197,17 +1239,5 @@ Next Milestone → 300+ → 400+ → 500+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=FFA116&center=true&vCenter=true&width=700&lines=250%2B+solved+%E2%86%92+300%2B+%E2%86%92+400%2B+%E2%86%92+500%2B;One+problem+at+a+time.;Keep+solving.+Keep+growing." alt="Animated milestone"/>
 
 ⭐ If you find this repository useful, consider giving it a star!
-
-</div>
-
----
-
-<div align="center">
-
-### 📌 Repository Status
-
-**250+ Problems • Daily Practice • Pattern-Based Learning • Interview Preparation**
-
-*This README is designed to evolve with the repository as new problems, patterns and milestones are added.*
 
 </div>
