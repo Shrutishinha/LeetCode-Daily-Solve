@@ -1,4 +1,23 @@
 # 🐍 LeetCode Daily Solve — Python
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,16,18&text=LeetCode%20Daily%20Solve&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Python%20%7C%20DSA%20%7C%20Problem%20Solving&descAlignY=60&descSize=18" width="100%" alt="LeetCode Python header"/>
+
+<a href="https://leetcode.com/">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFA116&center=true&vCenter=true&width=700&lines=250%2B+Problems+Solved;Mastering+DSA+Patterns;Python+%7C+AI%2FML+%7C+Interviews;Consistency+Over+Intensity;Next+Milestone%3A+500%2B" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/250%2B-Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-DSA-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Target-500%2B-8B5CF6?style=for-the-badge"/>
+
+<br/><br/>
+
+**🧠 Learn the Pattern • ⚡ Optimize • 💻 Code • 🔄 Revise**
+
+</div>
 
 
 <div align="center">
