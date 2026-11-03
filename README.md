@@ -1,5 +1,6 @@
 # 🐍 LeetCode Daily Solve — Python
 
+
 <div align="center">
 
 <a href="https://leetcode.com/">
