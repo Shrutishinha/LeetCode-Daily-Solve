@@ -17,8 +17,6 @@
 **🧠 Learn the Pattern • ⚡ Optimize • 💻 Code • 🔄 Revise**
 
 </div>
-
-
 <div align="center">
 
 <a href="https://leetcode.com/">
