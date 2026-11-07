@@ -7,7 +7,6 @@
 </a>
 
 <br/>
-
 <img src="https://img.shields.io/badge/250%2B-Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-DSA-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Target-500%2B-8B5CF6?style=for-the-badge"/>
